@@ -1,0 +1,9 @@
+# Editor / tooling local settings
+.claude/
+
+# Deck generator scripts (kept local, not published)
+scripts/
+
+# Slide render previews
+preview/
+*/preview/
